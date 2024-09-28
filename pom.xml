@@ -12,7 +12,7 @@
 	<artifactId>sender-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sender-service</name>
-	<description>Active MQ Artemis</description>
+	<description>Active MQ Artemis Sender Service</description>
 	<url/>
 	<licenses>
 		<license/>
